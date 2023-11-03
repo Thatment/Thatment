@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Thatment/Thatment/assets/110982264/8e61aeb9-c93a-462e-9fc7-3490d6614a0e" width="400" height="700"/>
+  <img src="https://github.com/Thatment/Thatment/assets/110982264/8e61aeb9-c93a-462e-9fc7-3490d6614a0e" width="400" height="600"/>
  </p>
 
 
