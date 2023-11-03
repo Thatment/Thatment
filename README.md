@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/Thatment/Thatment/assets/110982264/8e61aeb9-c93a-462e-9fc7-3490d6614a0e">
-</p>
+  <img src="https://github.com/Thatment/Thatment/assets/110982264/8e61aeb9-c93a-462e-9fc7-3490d6614a0e" width="200" height="400"/>
+ </p>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
