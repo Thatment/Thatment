@@ -1,6 +1,4 @@
-### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=BDBDC8&height=30&section=header&text=dk--Hello World&fontSize=15" />
-
+### 퐝갑습니다  Bello?👋
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
@@ -18,7 +16,7 @@
 
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 것
 </summary>
    <br>
   
